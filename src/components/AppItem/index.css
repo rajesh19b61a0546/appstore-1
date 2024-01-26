@@ -1,0 +1,18 @@
+.con {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.con1 {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.image {
+  height: 100px;
+  width: 100px;
+}
+.heading {
+  font-size: 12x;
+  color: #1e293b;
+}
